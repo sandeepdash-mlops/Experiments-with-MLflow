@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/729412867985578249/b537268f7d1f495a9ee2a3e8f496da09/artifacts
+end_time: 1753707347128
+entry_point_name: ''
+experiment_id: '729412867985578249'
+lifecycle_stage: active
+run_id: b537268f7d1f495a9ee2a3e8f496da09
+run_name: blushing-mule-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753707328674
+status: 3
+tags: []
+user_id: sandeep.d

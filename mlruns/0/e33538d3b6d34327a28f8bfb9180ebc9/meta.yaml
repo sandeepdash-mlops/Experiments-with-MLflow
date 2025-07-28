@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e33538d3b6d34327a28f8bfb9180ebc9/artifacts
+end_time: 1753681668713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e33538d3b6d34327a28f8bfb9180ebc9
+run_name: glamorous-seal-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753681668537
+status: 3
+tags: []
+user_id: sandeep.d
