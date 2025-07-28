@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sandeep.d/Desktop/OPS-Series/Experiments-with-MLFlow/mlruns/143714232931248337/f67e121a6eab4e7fa86de665e372946c/artifacts
+end_time: 1753710117841
+entry_point_name: ''
+experiment_id: '143714232931248337'
+lifecycle_stage: active
+run_id: f67e121a6eab4e7fa86de665e372946c
+run_name: classy-elk-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753710117629
+status: 3
+tags: []
+user_id: sandeep.d

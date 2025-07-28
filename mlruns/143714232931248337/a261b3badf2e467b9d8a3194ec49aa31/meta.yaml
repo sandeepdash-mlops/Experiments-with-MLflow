@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sandeep.d/Desktop/OPS-Series/Experiments-with-MLFlow/mlruns/143714232931248337/a261b3badf2e467b9d8a3194ec49aa31/artifacts
+end_time: 1753710118248
+entry_point_name: ''
+experiment_id: '143714232931248337'
+lifecycle_stage: active
+run_id: a261b3badf2e467b9d8a3194ec49aa31
+run_name: flawless-turtle-102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753710118052
+status: 3
+tags: []
+user_id: sandeep.d

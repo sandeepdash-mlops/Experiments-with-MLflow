@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sandeep.d/Desktop/OPS-Series/Experiments-with-MLFlow/mlruns/143714232931248337/a808a92390e5452d80e22b1e3efe3ca1/artifacts
+end_time: 1753710116584
+entry_point_name: ''
+experiment_id: '143714232931248337'
+lifecycle_stage: active
+run_id: a808a92390e5452d80e22b1e3efe3ca1
+run_name: smiling-rat-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753710116403
+status: 3
+tags: []
+user_id: sandeep.d

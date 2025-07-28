@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sandeep.d/Desktop/OPS-Series/Experiments-with-MLFlow/mlruns/143714232931248337/112b1bbd5a914120abd16f60097935bc/artifacts
+end_time: 1753710117017
+entry_point_name: ''
+experiment_id: '143714232931248337'
+lifecycle_stage: active
+run_id: 112b1bbd5a914120abd16f60097935bc
+run_name: colorful-fish-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753710116803
+status: 3
+tags: []
+user_id: sandeep.d

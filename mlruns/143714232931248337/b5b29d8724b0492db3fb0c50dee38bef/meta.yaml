@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sandeep.d/Desktop/OPS-Series/Experiments-with-MLFlow/mlruns/143714232931248337/b5b29d8724b0492db3fb0c50dee38bef/artifacts
+end_time: 1753710116388
+entry_point_name: ''
+experiment_id: '143714232931248337'
+lifecycle_stage: active
+run_id: b5b29d8724b0492db3fb0c50dee38bef
+run_name: indecisive-bass-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753710116227
+status: 3
+tags: []
+user_id: sandeep.d

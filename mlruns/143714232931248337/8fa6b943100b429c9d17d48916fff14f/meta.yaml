@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sandeep.d/Desktop/OPS-Series/Experiments-with-MLFlow/mlruns/143714232931248337/8fa6b943100b429c9d17d48916fff14f/artifacts
+end_time: 1753710117612
+entry_point_name: ''
+experiment_id: '143714232931248337'
+lifecycle_stage: active
+run_id: 8fa6b943100b429c9d17d48916fff14f
+run_name: lyrical-mouse-39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753710117431
+status: 3
+tags: []
+user_id: sandeep.d

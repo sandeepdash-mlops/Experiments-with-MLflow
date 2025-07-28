@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sandeep.d/Desktop/OPS-Series/Experiments-with-MLFlow/mlruns/143714232931248337/9e061d6078df4aaa852ad50d9df1c21d/artifacts
+deleted_time: 1753710086067
+end_time: 1753709856451
+entry_point_name: ''
+experiment_id: '143714232931248337'
+lifecycle_stage: deleted
+run_id: 9e061d6078df4aaa852ad50d9df1c21d
+run_name: bold-stoat-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753709842038
+status: 4
+tags: []
+user_id: sandeep.d
