@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/810283976873416934/5c940f9d89ed41b6b275a07895e51a7e/artifacts
+end_time: 1753774244304
+entry_point_name: ''
+experiment_id: '810283976873416934'
+lifecycle_stage: active
+run_id: 5c940f9d89ed41b6b275a07895e51a7e
+run_name: aged-colt-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753774231220
+status: 3
+tags: []
+user_id: sandeep.d

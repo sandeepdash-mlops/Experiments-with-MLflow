@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/810283976873416934/845a04201a5b4b288826f742352d7ea3/artifacts
+end_time: 1753773326923
+entry_point_name: ''
+experiment_id: '810283976873416934'
+lifecycle_stage: active
+run_id: 845a04201a5b4b288826f742352d7ea3
+run_name: spiffy-worm-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753773313914
+status: 3
+tags: []
+user_id: sandeep.d

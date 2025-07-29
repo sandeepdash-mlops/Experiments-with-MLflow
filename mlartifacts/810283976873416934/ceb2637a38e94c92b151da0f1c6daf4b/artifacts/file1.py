@@ -4,7 +4,6 @@ from sklearn.datasets import load_wine
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
-from mlflow.models.signature import infer_signature
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -56,16 +55,8 @@ with mlflow.start_run():
     # Tags
     mlflow.set_tags({"Author": "Sandeep", "Project": "wine classification"})
 
-    # Infer the model signature
-    signature = infer_signature(X_train, rf.predict(X_train))
-
     # Log the model
-    mlflow.sklearn.log_model(
-    rf,
-    name="Random Forest Model",
-    input_example=X_train[:5],
-    signature=signature
-    )
+    mlflow.sklearn.log_model(rf, "Random Forest Model")
 
     # Output accuracy
     print(f"Accuracy: {accuracy:.4f}")
